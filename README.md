@@ -1,2 +1,2 @@
 # WorldHappiness2022_Global_Regional_Cluster_Analysis
- In this notebook the World Happiness report of the year 2022, taken from Kaggle, is analyzed globally, regionally, and also in cluster manner
+In this notebook the World Happiness report of the year 2022, taken from [Kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report), is analyzed. The major aim of the analysis is to find the most important features affecting the happiness score both globally and regionally. Additionally, cluster analysis will also be carried out by means of KMeans module. Click here to see the project : [WorldHappiness2022_Global_Regional_Cluster_Analysis.ipynb]
